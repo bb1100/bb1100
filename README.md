@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bb1100
 - 👀 I’m interested in creative coding
-- 🌱 I’m currently learning JavaScript, GLSL, Unity, Unreal, Python
+- 🌱 I use JavaScript, GLSL, and am learning Unity, Unreal, Python
 - 💞️ I’m looking to collaborate on making cool interactive art
 - 📫 How to reach me blrajcontact@gmail.com
 
